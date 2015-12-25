@@ -1,0 +1,3 @@
+[submodule "leaflet-side-by-side"]
+	path = leaflet-side-by-side
+	url = git://github.com/digidem/leaflet-side-by-side
